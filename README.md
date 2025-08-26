@@ -96,3 +96,57 @@ Objective: Visual representation of interactions between users and the system.
     - Facilitate communication among stakeholders and development team.
 
 https://github.com/gevalinho/requirement-analysis/blob/main/alx-booking-uc.png
+
+
+
+# Acceptance Criteria ✅
+Objective: Establishing clear criteria for feature completion.
+
+- What is Acceptance Criteria?
+
+    - Acceptance criteria are conditions that a feature must meet to be accepted by the stakeholders.
+
+- How to Define Acceptance Criteria:
+
+    - Be specific and measurable.
+    - Include functional and non-functional aspects.
+    - Example for Booking System: “Users should be able to select available dates, confirm booking, and receive a confirmation email within 2 minutes.”
+
+- Benefits of Acceptance Criteria:
+
+    - Ensure all parties have a clear understanding of feature requirements.
+    - Provide a basis for testing and validation.
+    - Help in maintaining quality and meeting user expectations.
+
+Putting It All Together 📌
+Steps to Conduct Requirement Analysis:
+
+1.  Gather Requirements:
+
+    - Conduct interviews and surveys with stakeholders.
+    - Review existing documentation and systems.
+2. Write User Stories:
+
+    - Collaborate with stakeholders to define user stories.
+    - Prioritize user stories based on project goals.
+3. Define Functional Requirements:
+
+    - List all functionalities required for the system.
+    - Ensure each functionality aligns with user stories.
+4. Identify Non-functional Requirements:
+
+    - Determine system attributes critical for success.
+    - Document performance, security, scalability, usability, and reliability requirements.
+5. Create Use Case Diagrams:
+
+    - Visualize interactions between users and the system.
+    - Validate with stakeholders to ensure accuracy.
+6. Set Acceptance Criteria:
+
+    - Define clear criteria for feature completion.
+    - Ensure criteria are specific, measurable, and agreed upon by stakeholders.
+
+# Additional Resources
+Requirement Analysis
+Undersanting functional requirement
+Non functional requirement
