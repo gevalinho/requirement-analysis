@@ -57,3 +57,42 @@ Non-functional Requirements 🛡️
     - Scalability: The system should be able to scale horizontally to handle increased traffic.
     - Usability: The application should have an intuitive UI/UX, making it easy for users to navigate and perform tasks.
     - Reliability: The system should have an uptime of 99.9% and recover quickly from any failures.
+
+    
+# Requirement Analysis Process
+1. Requirement Gathering
+Engage with stakeholders to collect initial requirements.
+Use various techniques like interviews, surveys, and workshops.
+2. Requirement Elicitation
+Refine and elaborate on the gathered requirements.
+Use techniques like brainstorming, focus groups, and prototyping.
+3. Requirement Documentation
+Document the requirements in a detailed and structured format.
+Use requirement specification documents, user stories, and use cases.
+4. Requirement Analysis and Modeling
+Analyze and prioritize the requirements.
+Create models to visualize and understand the requirements.
+5. Requirement Validation
+Review and validate the requirements with stakeholders.
+Define acceptance criteria and ensure traceability.
+
+# Use Case Diagrams 📊
+Objective: Visual representation of interactions between users and the system.
+
+- What are Use Case Diagrams?
+
+    - Use case diagrams show how different users (actors) interact with the system to achieve specific goals (use cases).
+
+- Creating Use Case Diagrams:
+
+    - Identify actors (e.g., guest, registered user, admin).
+    - Define use cases (e.g., search properties, book property, manage listings).
+    - Draw interactions between actors and use cases.
+
+- Benefits of Use Case Diagrams:
+
+    - Provide a clear visual representation of system functionalities.
+    - Help in identifying and organizing system requirements.
+    - Facilitate communication among stakeholders and development team.
+
+https://github.com/gevalinho/requirement-analysis/blob/main/alx-booking-uc.png
